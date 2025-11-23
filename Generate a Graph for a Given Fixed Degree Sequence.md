@@ -22,7 +22,7 @@ To write a Python program to generate a graph for a given **fixed degree sequenc
 
 ```
 # Reg.No: 212222060062
-# Name:Gobika shree A
+# Name: Gobika shree A
 Python3 program to generate a graph
 # for a given fixed degrees
 
